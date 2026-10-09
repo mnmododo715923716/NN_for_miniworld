@@ -4,8 +4,7 @@ A single-file neural network library for Lua 5.4. Zero dependencies. Implements
 autograd, a full module system, optimizers, and transformer layers — everything
 needed to build and train MLPs, CNNs, RNNs, and transformers in pure Lua.
 
-Run the self-test: `lua nn.lua`  
-Run the demo: `lua demo.lua`
+
 
 ---
 
